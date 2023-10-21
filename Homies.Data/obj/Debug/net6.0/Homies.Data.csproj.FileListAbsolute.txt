@@ -1,0 +1,14 @@
+D:\Docker\Homies\Homies.Data\bin\Debug\net6.0\Homies.Data.deps.json
+D:\Docker\Homies\Homies.Data\bin\Debug\net6.0\Homies.Data.runtimeconfig.json
+D:\Docker\Homies\Homies.Data\bin\Debug\net6.0\Homies.Data.dll
+D:\Docker\Homies\Homies.Data\bin\Debug\net6.0\Homies.Data.pdb
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.AssemblyReference.cache
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfoInputs.cache
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfo.cs
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.CoreCompileInputs.cache
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.dll
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\refint\Homies.Data.dll
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.pdb
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\Homies.Data.genruntimeconfig.cache
+D:\Docker\Homies\Homies.Data\obj\Debug\net6.0\ref\Homies.Data.dll
